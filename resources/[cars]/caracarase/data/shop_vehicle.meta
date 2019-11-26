@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+  <Vehicles>
+   	<Item>
+	  <lockHash>CU_VEH_CARACARA</lockHash>
+	  <modelNameHash>caracara02</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>CARACARASE</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+  </Vehicles>	
+</ShopVehicleDataArray>
