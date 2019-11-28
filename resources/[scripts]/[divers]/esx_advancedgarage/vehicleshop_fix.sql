@@ -24,6 +24,8 @@ CREATE TABLE `owned_vehicles` (
 	`type` VARCHAR(20) NOT NULL DEFAULT 'car',
 	`job` VARCHAR(20) NOT NULL,
 	`stored` TINYINT(1) NOT NULL DEFAULT '0',
-
+	`put_by` varchar(255),
+    	`in_garage_type` varchar(255),
+	
 	PRIMARY KEY (`plate`)
 );
