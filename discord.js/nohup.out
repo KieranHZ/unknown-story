@@ -1,0 +1,1 @@
+cd .\discord.js\<br>git checkout -b AddingFile<br>git add .<br>git commit -m "Adding a file"<br>git push
